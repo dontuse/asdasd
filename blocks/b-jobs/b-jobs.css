@@ -1,0 +1,89 @@
+
+
+/*---| b-jobs |----------------------------------------------------------------*/
+
+.b-jobs {
+    margin-bottom: 40px;
+}
+
+
+.b-jobs__hide-zone {
+    border-top: 1px solid #c6ac86;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 17px;
+}
+
+
+.b-jobs__item {
+    padding: 17px 20px 0;
+    background: #f6f2e1;
+    font-size: 13px;
+    color: #292929;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 31px;
+}
+
+.b-jobs__head {
+    padding-bottom: 17px;
+}
+
+.b-jobs__head-a,
+.b-jobs__head-a:visited {
+    font-size: 22px;
+    font-family: fontUbuntuC;
+    display: inline-block;
+    text-decoration: none;
+    border-bottom: 1px dashed;
+    line-height: 20px;
+    color: #333333;
+    *display: inline;
+    *zoom:1;
+}
+
+.b-jobs__head-a:hover {
+    color: #f1a11a;
+}
+
+.b-jobs__property {
+    overflow: hidden;
+    padding-bottom: 20px;
+}
+
+.b-jobs__property_type_mail {
+    border-top: 1px solid #c6ac86;
+    padding-top: 19px;
+    line-height: 26px;
+    padding-bottom: 0;
+}
+
+.b-jobs__property_type_mail .b-jobs__defines {
+    padding-top: 2px;
+}
+
+.b-jobs__defines {
+    font-size: 15px;
+    font-family: fontUbuntuC;
+    float: left;
+    width: 165px;
+}
+
+
+
+.b-jobs__describes {
+    overflow: hidden;
+    padding-left: 19px;
+}
+
+.b-jobs__mail,
+.b-jobs__mail:visited,
+.b-jobs__mail:hover {
+    color: #f1a11a;
+    font-size: 20px;
+}
+
+/*===| b-jobs |=================================================================*/
